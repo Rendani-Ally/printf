@@ -1,7 +1,5 @@
 [![Contributors][contributors-shield]][contributors-url]
-<h3>Rendani-Ally<h3/>
 [![Rendani-Ally][github-shield]](https://github.com/Rendani-Ally)
-<h3>Thandi Andile Ndlovu<h3/>
 [![Thandi Andile Ndlovu][github-shield]](https://github.com/0506Andy)
 
   
