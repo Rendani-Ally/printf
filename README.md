@@ -4,13 +4,8 @@
 
   
 <p align="center">
-  <a href="https://github.com/Rendani-Ally/printf">
-    <!-- <img src="src/assets/logo.png" alt="Logo" width="80" height="80"> -->
-  </a>
-
   <h3 align="center">printf()</h3>
-
-    <p align="center">
+<p align="center">
     The printf project is a collaboration project by **Rendani Ally** and **Thandi Andile Ndlovu**, students of the ALX Software Engineering Programme by Holberton School, in which a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
     <br />
 	
