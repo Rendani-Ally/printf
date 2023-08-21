@@ -6,7 +6,7 @@
 <p align="center">
   <h3 align="center">printf()</h3>
 <p align="center">
-    The printf project is a collaboration project by **Rendani Ally** and **Thandi Andile Ndlovu**, students of the ALX Software Engineering Programme by Holberton School, in which a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
+    The printf project is a collaboration project by <a href="https://github.com/Rendani-Ally">Rendani Ally<a/> and <a href="https://github.com/0506Andy">Thandi Andile Ndlovu<a/>, students of the ALX Software Engineering Programme by Holberton School, in which a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
     <br />
 	
 	int _printf(const char *format, ...)
