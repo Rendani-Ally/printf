@@ -49,5 +49,4 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
 [contributors-shield]: https://img.shields.io/github/contributors/ThemeQuest/specs-on-website.svg?style=for-the-badge
-[contributors-url]: https://github.com/ThemeQuest/specs-on-website/graphs/contributors
-
+[contributors-url]: https://github.com/Rendani-Ally/printf/graphs/contributors
